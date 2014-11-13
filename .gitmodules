@@ -7,6 +7,9 @@
 [submodule "infinispan"]
 	path = 03-infinispan-seminar
 	url = https://github.com/qa/a4m36jee-2014-infinispan-seminar.git
-[submodule "04-clustering-seminar"]
+[submodule "clustering"]
 	path = 04-clustering-seminar
 	url = https://github.com/qa/a4m36jee-2014-clustering-seminar.git
+[submodule "security"]
+	path = 05-security-seminar
+	url = https://github.com/qa/a4m36jee-2014-security-seminar.git

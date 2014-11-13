@@ -12,5 +12,7 @@
         <module>01-cdi-seminar</module>
         <module>02-web-seminar</module>
         <module>03-infinispan-seminar</module>
+        <module>04-clustering-seminar</module>
+        <module>05-security-seminar</module>
     </modules>
 </project>
