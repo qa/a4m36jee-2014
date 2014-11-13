@@ -1,3 +1,6 @@
 [submodule "cdi"]
 	path = 01-cdi-seminar
 	url = https://github.com/qa/a4m36jee-2014-cdi-seminar.git
+[submodule "web"]
+	path = 02-web-seminar
+	url = https://github.com/qa/a4m36jee-2014-web-seminar.git
