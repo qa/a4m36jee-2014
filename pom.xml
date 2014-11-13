@@ -14,5 +14,6 @@
         <module>03-infinispan-seminar</module>
         <module>04-clustering-seminar</module>
         <module>05-security-seminar</module>
+        <module>06-management-seminar</module>
     </modules>
 </project>

@@ -13,3 +13,6 @@
 [submodule "security"]
 	path = 05-security-seminar
 	url = https://github.com/qa/a4m36jee-2014-security-seminar.git
+[submodule "management"]
+	path = 06-management-seminar
+	url = https://github.com/qa/a4m36jee-2014-management-seminar.git
